@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skxpsis!
-- 👀 I’m interested in software development, cloud services, and database administration. :blush:
+- 👀 I’m interested in software development, cloud services, and database administration. 😊
 - 🌱 I’m currently learning AWS practices and R.
 - 💞️ I’m looking to collaborate on Python projects!
 - 📫 How to reach me: skxpsis@gmail.com.
