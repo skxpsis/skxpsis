@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @skxpsis!
 - 👀 I’m interested in software development, cloud services, and database administration. 😊
-- 🌱 I’m currently learning AWS and R.
+- 🌱 I’m currently focusing on data structures and algorithms.
 - 💞️ I’m looking to collaborate on Python projects!
 - 📫 How to reach me: skxpsis@gmail.com.
-- 📫 LinkedIn: https://www.linkedin.com/in/mandythrasher/
+- :postbox: [LinkedIn](https://www.linkedin.com/in/mandythrasher/)
 
 <!---
 skxpsis/skxpsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
