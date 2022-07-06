@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AWS and R.
 - 💞️ I’m looking to collaborate on Python projects!
 - 📫 How to reach me: skxpsis@gmail.com.
+- 📫 LinkedIn: https://www.linkedin.com/in/mandythrasher/
 
 <!---
 skxpsis/skxpsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
